@@ -1,0 +1,43 @@
+C:\Users\admin\university-management\universitydatalayer\bin\Debug\net8.0\universitydatalayer.deps.json
+C:\Users\admin\university-management\universitydatalayer\bin\Debug\net8.0\universitydatalayer.runtimeconfig.json
+C:\Users\admin\university-management\universitydatalayer\bin\Debug\net8.0\universitydatalayer.dll
+C:\Users\admin\university-management\universitydatalayer\bin\Debug\net8.0\universitydatalayer.pdb
+C:\Users\admin\university-management\universitydatalayer\obj\Debug\net8.0\universitydatalayer.csproj.AssemblyReference.cache
+C:\Users\admin\university-management\universitydatalayer\obj\Debug\net8.0\universitydatalayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\university-management\universitydatalayer\obj\Debug\net8.0\universitydatalayer.AssemblyInfoInputs.cache
+C:\Users\admin\university-management\universitydatalayer\obj\Debug\net8.0\universitydatalayer.AssemblyInfo.cs
+C:\Users\admin\university-management\universitydatalayer\obj\Debug\net8.0\universitydatalayer.csproj.CoreCompileInputs.cache
+C:\Users\admin\university-management\universitydatalayer\obj\Debug\net8.0\universitydatalayer.sourcelink.json
+C:\Users\admin\university-management\universitydatalayer\obj\Debug\net8.0\universitydatalayer.dll
+C:\Users\admin\university-management\universitydatalayer\obj\Debug\net8.0\refint\universitydatalayer.dll
+C:\Users\admin\university-management\universitydatalayer\obj\Debug\net8.0\universitydatalayer.pdb
+C:\Users\admin\university-management\universitydatalayer\obj\Debug\net8.0\universitydatalayer.genruntimeconfig.cache
+C:\Users\admin\university-management\universitydatalayer\obj\Debug\net8.0\ref\universitydatalayer.dll
+C:\Users\admin\universitydatalayer\bin\Debug\net8.0\universitydatalayer.deps.json
+C:\Users\admin\universitydatalayer\bin\Debug\net8.0\universitydatalayer.runtimeconfig.json
+C:\Users\admin\universitydatalayer\bin\Debug\net8.0\universitydatalayer.dll
+C:\Users\admin\universitydatalayer\bin\Debug\net8.0\universitydatalayer.pdb
+C:\Users\admin\universitydatalayer\obj\Debug\net8.0\universitydatalayer.csproj.AssemblyReference.cache
+C:\Users\admin\universitydatalayer\obj\Debug\net8.0\universitydatalayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\universitydatalayer\obj\Debug\net8.0\universitydatalayer.AssemblyInfoInputs.cache
+C:\Users\admin\universitydatalayer\obj\Debug\net8.0\universitydatalayer.AssemblyInfo.cs
+C:\Users\admin\universitydatalayer\obj\Debug\net8.0\universitydatalayer.csproj.CoreCompileInputs.cache
+C:\Users\admin\universitydatalayer\obj\Debug\net8.0\universitydatalayer.dll
+C:\Users\admin\universitydatalayer\obj\Debug\net8.0\refint\universitydatalayer.dll
+C:\Users\admin\universitydatalayer\obj\Debug\net8.0\universitydatalayer.pdb
+C:\Users\admin\universitydatalayer\obj\Debug\net8.0\universitydatalayer.genruntimeconfig.cache
+C:\Users\admin\universitydatalayer\obj\Debug\net8.0\ref\universitydatalayer.dll
+C:\Users\admin\universitymanagement systme\universitydatalayer\bin\Debug\net8.0\universitydatalayer.deps.json
+C:\Users\admin\universitymanagement systme\universitydatalayer\bin\Debug\net8.0\universitydatalayer.runtimeconfig.json
+C:\Users\admin\universitymanagement systme\universitydatalayer\bin\Debug\net8.0\universitydatalayer.dll
+C:\Users\admin\universitymanagement systme\universitydatalayer\bin\Debug\net8.0\universitydatalayer.pdb
+C:\Users\admin\universitymanagement systme\universitydatalayer\obj\Debug\net8.0\universitydatalayer.csproj.AssemblyReference.cache
+C:\Users\admin\universitymanagement systme\universitydatalayer\obj\Debug\net8.0\universitydatalayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\universitymanagement systme\universitydatalayer\obj\Debug\net8.0\universitydatalayer.AssemblyInfoInputs.cache
+C:\Users\admin\universitymanagement systme\universitydatalayer\obj\Debug\net8.0\universitydatalayer.AssemblyInfo.cs
+C:\Users\admin\universitymanagement systme\universitydatalayer\obj\Debug\net8.0\universitydatalayer.csproj.CoreCompileInputs.cache
+C:\Users\admin\universitymanagement systme\universitydatalayer\obj\Debug\net8.0\universitydatalayer.dll
+C:\Users\admin\universitymanagement systme\universitydatalayer\obj\Debug\net8.0\refint\universitydatalayer.dll
+C:\Users\admin\universitymanagement systme\universitydatalayer\obj\Debug\net8.0\universitydatalayer.pdb
+C:\Users\admin\universitymanagement systme\universitydatalayer\obj\Debug\net8.0\universitydatalayer.genruntimeconfig.cache
+C:\Users\admin\universitymanagement systme\universitydatalayer\obj\Debug\net8.0\ref\universitydatalayer.dll

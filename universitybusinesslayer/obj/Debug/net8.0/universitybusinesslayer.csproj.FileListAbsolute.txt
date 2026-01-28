@@ -1,0 +1,46 @@
+C:\Users\admin\university-management\universitybusinesslayer\bin\Debug\net8.0\universitybusinesslayer.deps.json
+C:\Users\admin\university-management\universitybusinesslayer\bin\Debug\net8.0\universitybusinesslayer.dll
+C:\Users\admin\university-management\universitybusinesslayer\bin\Debug\net8.0\universitybusinesslayer.pdb
+C:\Users\admin\university-management\universitybusinesslayer\bin\Debug\net8.0\universitydatalayer.dll
+C:\Users\admin\university-management\universitybusinesslayer\bin\Debug\net8.0\universitydatalayer.pdb
+C:\Users\admin\university-management\universitybusinesslayer\obj\Debug\net8.0\universitybusinesslayer.csproj.AssemblyReference.cache
+C:\Users\admin\university-management\universitybusinesslayer\obj\Debug\net8.0\universitybusinesslayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\university-management\universitybusinesslayer\obj\Debug\net8.0\universitybusinesslayer.AssemblyInfoInputs.cache
+C:\Users\admin\university-management\universitybusinesslayer\obj\Debug\net8.0\universitybusinesslayer.AssemblyInfo.cs
+C:\Users\admin\university-management\universitybusinesslayer\obj\Debug\net8.0\universitybusinesslayer.csproj.CoreCompileInputs.cache
+C:\Users\admin\university-management\universitybusinesslayer\obj\Debug\net8.0\universitybusinesslayer.sourcelink.json
+C:\Users\admin\university-management\universitybusinesslayer\obj\Debug\net8.0\universi.72B92EF9.Up2Date
+C:\Users\admin\university-management\universitybusinesslayer\obj\Debug\net8.0\universitybusinesslayer.dll
+C:\Users\admin\university-management\universitybusinesslayer\obj\Debug\net8.0\refint\universitybusinesslayer.dll
+C:\Users\admin\university-management\universitybusinesslayer\obj\Debug\net8.0\universitybusinesslayer.pdb
+C:\Users\admin\university-management\universitybusinesslayer\obj\Debug\net8.0\ref\universitybusinesslayer.dll
+C:\Users\admin\universitybusinesslayer\bin\Debug\net8.0\universitybusinesslayer.deps.json
+C:\Users\admin\universitybusinesslayer\bin\Debug\net8.0\universitybusinesslayer.dll
+C:\Users\admin\universitybusinesslayer\bin\Debug\net8.0\universitybusinesslayer.pdb
+C:\Users\admin\universitybusinesslayer\bin\Debug\net8.0\universitydatalayer.dll
+C:\Users\admin\universitybusinesslayer\bin\Debug\net8.0\universitydatalayer.pdb
+C:\Users\admin\universitybusinesslayer\obj\Debug\net8.0\universitybusinesslayer.csproj.AssemblyReference.cache
+C:\Users\admin\universitybusinesslayer\obj\Debug\net8.0\universitybusinesslayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\universitybusinesslayer\obj\Debug\net8.0\universitybusinesslayer.AssemblyInfoInputs.cache
+C:\Users\admin\universitybusinesslayer\obj\Debug\net8.0\universitybusinesslayer.AssemblyInfo.cs
+C:\Users\admin\universitybusinesslayer\obj\Debug\net8.0\universitybusinesslayer.csproj.CoreCompileInputs.cache
+C:\Users\admin\universitybusinesslayer\obj\Debug\net8.0\universi.72B92EF9.Up2Date
+C:\Users\admin\universitybusinesslayer\obj\Debug\net8.0\universitybusinesslayer.dll
+C:\Users\admin\universitybusinesslayer\obj\Debug\net8.0\refint\universitybusinesslayer.dll
+C:\Users\admin\universitybusinesslayer\obj\Debug\net8.0\universitybusinesslayer.pdb
+C:\Users\admin\universitybusinesslayer\obj\Debug\net8.0\ref\universitybusinesslayer.dll
+C:\Users\admin\universitymanagement systme\universitybusinesslayer\bin\Debug\net8.0\universitybusinesslayer.deps.json
+C:\Users\admin\universitymanagement systme\universitybusinesslayer\bin\Debug\net8.0\universitybusinesslayer.dll
+C:\Users\admin\universitymanagement systme\universitybusinesslayer\bin\Debug\net8.0\universitybusinesslayer.pdb
+C:\Users\admin\universitymanagement systme\universitybusinesslayer\bin\Debug\net8.0\universitydatalayer.dll
+C:\Users\admin\universitymanagement systme\universitybusinesslayer\bin\Debug\net8.0\universitydatalayer.pdb
+C:\Users\admin\universitymanagement systme\universitybusinesslayer\obj\Debug\net8.0\universitybusinesslayer.csproj.AssemblyReference.cache
+C:\Users\admin\universitymanagement systme\universitybusinesslayer\obj\Debug\net8.0\universitybusinesslayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\universitymanagement systme\universitybusinesslayer\obj\Debug\net8.0\universitybusinesslayer.AssemblyInfoInputs.cache
+C:\Users\admin\universitymanagement systme\universitybusinesslayer\obj\Debug\net8.0\universitybusinesslayer.AssemblyInfo.cs
+C:\Users\admin\universitymanagement systme\universitybusinesslayer\obj\Debug\net8.0\universitybusinesslayer.csproj.CoreCompileInputs.cache
+C:\Users\admin\universitymanagement systme\universitybusinesslayer\obj\Debug\net8.0\universi.72B92EF9.Up2Date
+C:\Users\admin\universitymanagement systme\universitybusinesslayer\obj\Debug\net8.0\universitybusinesslayer.dll
+C:\Users\admin\universitymanagement systme\universitybusinesslayer\obj\Debug\net8.0\refint\universitybusinesslayer.dll
+C:\Users\admin\universitymanagement systme\universitybusinesslayer\obj\Debug\net8.0\universitybusinesslayer.pdb
+C:\Users\admin\universitymanagement systme\universitybusinesslayer\obj\Debug\net8.0\ref\universitybusinesslayer.dll
