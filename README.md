@@ -27,7 +27,7 @@ This project is a backend API for managing a university system, with features fo
 - **Database:** SQL Server  
 - **Documentation:** Swagger
 
-##SetUp
+##  SetUp
 
 1. Clone the repo
 2. Create appsettings.json from appsettings.Development
