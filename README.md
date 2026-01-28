@@ -26,3 +26,10 @@ This project is a backend API for managing a university system, with features fo
 - **Authentication:** JWT  
 - **Database:** SQL Server  
 - **Documentation:** Swagger
+
+   ## Setup
+
+1. Clone the repo
+2. Create appsettings.json from appsettings.Development
+3. Run migrations or database setup
+4. Run project in Visual Studio
